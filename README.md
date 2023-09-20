@@ -36,6 +36,6 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 # Authors
 ## Nitish Garg
 <ul>
-<li>Github:https://www.linkedin.com/in/nitishgarg2503</li>
-<li>LinkedIn:https://github.com/Nitishgarg2503</li>
+<li>Github:https://github.com/Nitishgarg2503</li>
+<li>LinkedIn:https://www.linkedin.com/in/nitishgarg2503</li>
 </ul>
