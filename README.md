@@ -34,10 +34,8 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 </ol>
 
 # Authors
-## Kaushik Jadhav
+## Nitish Garg
 <ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
+<li>Github:https://www.linkedin.com/in/nitishgarg2503</li>
+<li>LinkedIn:https://github.com/Nitishgarg2503</li>
 </ul>
